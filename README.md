@@ -1,23 +1,23 @@
-  <a href="https://github.com/Etriii">
-    <img src="https://img.shields.io/github/followers/Etriii?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/Etriii?tab=repositories">
-    <img src="https://img.shields.io/badge/🌟%20Star%20My%20Repos-Etriii-blueviolet" alt="Star My Repos" />
-  </a>
-  <a href="https://github.com/Etriii">
-    <img src="https://komarev.com/ghpvc/?username=Etriii&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/Etriii">
-    <img src="https://img.shields.io/github/last-commit/Etriii/Etriii?color=green" alt="Last Commit" />
-  </a>
-  <a href="https://github.com/Etriii">
-    <img src="https://img.shields.io/badge/Check%20My-Code-blue?style=flat&logo=github" alt="Check My Code" />
-  </a>
-</p>
+<a href="https://github.com/Etriii">
+  <img src="https://img.shields.io/github/followers/Etriii?label=Followers&style=social" alt="GitHub Followers" />
+</a>
+<a href="https://github.com/Etriii?tab=repositories">
+  <img src="https://img.shields.io/badge/🌟%20Star%20My%20Repos-Etriii-blueviolet" alt="Star My Repos" />
+</a>
+<a href="https://github.com/Etriii">
+  <img src="https://komarev.com/ghpvc/?username=Etriii&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</a>
+<a href="https://github.com/Etriii">
+  <img src="https://img.shields.io/github/last-commit/Etriii/Etriii?color=green" alt="Last Commit" />
+</a>
+<a href="https://github.com/Etriii">
+  <img src="https://img.shields.io/badge/Check%20My-Code-blue?style=flat&logo=github" alt="Check My Code" />
+</a>
 
 ![MASTER-HEAD](./assets/api_animated_gif.gif)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EF7BB&width=850&height=40&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Alex%2C+Thanks+for+visiting!;If+you+like+my+work%2C+consider+giving+my+repos+a+%E2%AD%90+%E2%80%94+it+really+helps!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EF7BB&width=850&height=40&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Chinmay%2C+Thanks+for+visiting!;If+you+like+my+work%2C+consider+giving+my+repos+a+%E2%AD%90+%E2%80%94+it+really+helps!)](https://git.io/typing-svg)
+
 <img src="./assets/border_separator.gif">
 
 <div align="center">
@@ -29,7 +29,7 @@
          <strong>Contact me</strong>
        <br>
        <br>
-         <a href="mailto:alexarnaizaparece@gmail.com">
+         <a href="mailto:chinmay@example.com">
             <img src="https://skillicons.dev/icons?i=gmail"  width="auto" height="auto"/>
           </a>
            <a href="https://github.com/Etriii">
@@ -201,7 +201,6 @@
   </kbd>
 
 </div>
-
 
 <img src="./assets/border_separator.gif">
 

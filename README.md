@@ -10,7 +10,7 @@ I'm a passionate **Undergrad-Computer Engineer** with a love for creating robust
 
 - 🔭 **Currently Learning:** [Computer Science]
 - 🌱 **Exploring:** [Java Spring Boot , Micro-Services]
-- 💡 **Passionate About:** [Backend Development , Web Development]
+- 💡 **Passionate About:** [Backend Development]
 - 📍 **Location:** [Kolhapur Maharashtra In]
 
 ## 🛠️ Tech Stack
